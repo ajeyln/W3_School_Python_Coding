@@ -48,7 +48,7 @@ I have divided the scripts into three parts
 
 _ demofile.txt, demofile2.txt and demofile3.txt were referred file to execute to do the intended tasks _
 
-#### The following scripts are of module Numpy,
+#### The following scripts are of module Numpy and will show how this module work with arrays.
 
 | **Sl. No.** | **Script name** | **Script Description** |
 ----------|--------------|--------------

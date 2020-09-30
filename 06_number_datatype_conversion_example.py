@@ -13,5 +13,5 @@ print(type(z)) # output - <class 'complex'>
 # if we want to select random number in the range of numbers
 import random
 
-print(random.randrange(1, 1000) 
+print(random.randrange(1, 1000)) 
 

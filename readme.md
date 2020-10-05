@@ -1,10 +1,11 @@
+<h1 align="center">Python Scripts</h1>
 
+This repository contains Python scripts, which I have referred from [W3-School](https://www.w3schools.com/python/python_intro.asp)
 
-This repository contains Python scripts, which I have referred from W3-School https://www.w3schools.com/python/python_intro.asp
+W3-School is good plattform to learn Python programming language escpacilly for beginners, who are instrested to learn new languages.
+In this website the concepts of python programming language are clearly expalined with small examples,which will enhance the intrests on learning python.
 
-These scripts are very basic and can easily understand by Python beginners.
-
-I have divided the scripts into three parts 
+#### I have divided the scripts into three parts 
  
  1. **Python Home** - you will find small scripts with various syntax and commands and I have tried to cover all topic in Python.
  2. **File Handling** - In this section you can understand how to open, read, write, and delete files using python scripts.
@@ -67,11 +68,10 @@ _ demofile.txt, demofile2.txt and demofile3.txt were referred file to execute to
 13| 13_sort_numpy.py| sorting element
 14| 14_filter_numpy.py| filtering element in arrays on condition
 
+From W3-School website I have learned the basic concepts of Python such as conditional statements, Data Structures, Creating class, inheritance, Importing Modules and Creating modules and importing in other scripts.
+Similarly I have also learned File handling concepts (Reading, Writing, Creating and Deleting file), Directories and usage of Modules such as Numpy, Datetime and Random
 
 The brief description regarding commands and related syntax are updated in the link https://github.com/ajeyln/learning_and_documentation.git
 
-
-For any issues, feel free to  *contact* me
-ajeyanayak@gmail.com
-:star2
+For feedback back, Request you to conatct me on ajeyanayak@gmail.com:star2:
 

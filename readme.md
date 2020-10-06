@@ -1,12 +1,12 @@
 <h1 align="center">Python Scripts</h1>
 
-<h2><ins>Background</ins> :</h2>
+<h2>Background :</h2>
 
 This repository contains Python scripts, which I have referred from [W3-School](https://www.w3schools.com/python/python_intro.asp).<br /> 
 W3-School is good plattform to learn Python programming language escpacilly for beginners, who are instrested to learn new languages.
 In this website the concepts of python programming language are clearly expalined with small examples,which will enhance the intrests on learning python.
 
-<h2><ins>Content</ins> :</h2>
+<h2>Content :</h2>
 
 **I have divided the scripts into three parts**
  
@@ -71,14 +71,21 @@ _demofile.txt, demofile2.txt and demofile3.txt were referred file to execute to 
 13| 13_sort_numpy.py| sorting element
 14| 14_filter_numpy.py| filtering element in arrays on condition
 
-<h2><ins>Key Take-away</ins> :</h2>
-From W3-School website I have learned the basic concepts of Python such as conditional statements, Data Structures, Creating class, inheritance, Importing Modules and Creating modules and importing in other scripts.
-Similarly I have also learned File handling concepts (Reading, Writing, Creating and Deleting file), Directories and usage of Modules such as Numpy, Datetime and Random
+<h2>Key Take-aways :</h2>
 
-<h2><ins>Useful Links</ins> :</h2>
+From W3-School website I have learned the basic concepts of Python such as 
+
+* Conditional statements
+* Data Structures, 
+* Creating class, inheritance, 
+* Importing Modules and Creating modules and importing in other scripts.
+* File handling concepts (Reading, Writing, Creating and Deleting file), 
+* Directories and usage of Modules such as Numpy, Datetime and Random
+
+<h2>Useful Links :</h2>
 
 The brief description regarding commands and related syntax are updated in the link [Learning_and_Documentation](https://github.com/ajeyln/learning_and_documentation/tree/master/python_language)
 
-<h2><ins>Contact</ins> :</h2>
-For feedback back, Request you to send a mail to ajeyanayak@gmail.com:star2:
+<h2>Contact :</h2>
+For any feedback, queries Please Emil to ajeyanayak@gmail.com:star2:
 

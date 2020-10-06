@@ -77,7 +77,7 @@ Similarly I have also learned File handling concepts (Reading, Writing, Creating
 
 <h2><ins>Useful Links</ins> :</h2>
 
-The brief description regarding commands and related syntax are updated in the link [Learning_and_Documentationl](https://github.com/ajeyln/learning_and_documentation/tree/master/python_language)
+The brief description regarding commands and related syntax are updated in the link [Learning_and_Documentation](https://github.com/ajeyln/learning_and_documentation/tree/master/python_language)
 
 <h2><ins>Contact</ins> :</h2>
 For feedback back, Request you to send a mail to ajeyanayak@gmail.com:star2:

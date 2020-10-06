@@ -1,17 +1,20 @@
 <h1 align="center">Python Scripts</h1>
 
-This repository contains Python scripts, which I have referred from [W3-School](https://www.w3schools.com/python/python_intro.asp)
+<h2><ins>Background</ins> :</h2>
 
+This repository contains Python scripts, which I have referred from [W3-School](https://www.w3schools.com/python/python_intro.asp).<br /> 
 W3-School is good plattform to learn Python programming language escpacilly for beginners, who are instrested to learn new languages.
 In this website the concepts of python programming language are clearly expalined with small examples,which will enhance the intrests on learning python.
 
-#### I have divided the scripts into three parts 
+<h2><ins>Content</ins> :</h2>
+
+**I have divided the scripts into three parts**
  
  1. **Python Home** - you will find small scripts with various syntax and commands and I have tried to cover all topic in Python.
  2. **File Handling** - In this section you can understand how to open, read, write, and delete files using python scripts.
  3. **Numpy** - A type of module used for working with arrays. The scripts are in this section will show how this module work with arrays.
 
-#### The following scripts are from Python Home, Where you can find basic command with examples
+* The following scripts are from Python Home, Where you can find basic command with examples
 
 | **Sl. No.** | **Script name** | **Script Description** |
 ----------|--------------|--------------
@@ -38,7 +41,7 @@ In this website the concepts of python programming language are clearly expaline
 21| 21_regex_method.py |script on regular expression on various tasks
 22| 22_str_format.py| inserting value by .format method 
 
-#### The following list of scripts are from File handling, Where you you can understand how to open, read, write, and delete files using python scripts.
+* The following list of scripts are from File handling, Where you you can understand how to open, read, write, and delete files using python scripts.
 
 | **Sl. No.** | **Script name** | **Script Description** |
 ----------|--------------|--------------
@@ -47,9 +50,9 @@ In this website the concepts of python programming language are clearly expaline
 3| 3_overwrite_file.py | python code, how to re-write existing file
 4| 4_creat_del_file.py| python code,how to crete a new file and delete existing file
 
-_ demofile.txt, demofile2.txt and demofile3.txt were referred file to execute to do the intended tasks _
+_demofile.txt, demofile2.txt and demofile3.txt were referred file to execute to do the intended tasks_
 
-#### The following scripts are of module Numpy and will show how this module work with arrays.
+* The following scripts are of module Numpy and will show how this module work with arrays.
 
 | **Sl. No.** | **Script name** | **Script Description** |
 ----------|--------------|--------------
@@ -68,10 +71,14 @@ _ demofile.txt, demofile2.txt and demofile3.txt were referred file to execute to
 13| 13_sort_numpy.py| sorting element
 14| 14_filter_numpy.py| filtering element in arrays on condition
 
+<h2><ins>Key Take-away</ins> :</h2>
 From W3-School website I have learned the basic concepts of Python such as conditional statements, Data Structures, Creating class, inheritance, Importing Modules and Creating modules and importing in other scripts.
 Similarly I have also learned File handling concepts (Reading, Writing, Creating and Deleting file), Directories and usage of Modules such as Numpy, Datetime and Random
 
-The brief description regarding commands and related syntax are updated in the link https://github.com/ajeyln/learning_and_documentation.git
+<h2><ins>Useful Links</ins> :</h2>
 
-For feedback back, Request you to conatct me on ajeyanayak@gmail.com:star2:
+The brief description regarding commands and related syntax are updated in the link [Learning_and_Documentationl](https://github.com/ajeyln/learning_and_documentation/tree/master/python_language)
+
+<h2><ins>Contact</ins> :</h2>
+For feedback back, Request you to send a mail to ajeyanayak@gmail.com:star2:
 
